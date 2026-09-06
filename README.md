@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tarang Nagda
 
-### Software Engineer | Backend Developer | Golang • Node.js • TypeScript
+### Software Engineer | Backend Developer | Node.js • JavaScript • Golang • TypeScript • AWS • SnowFlake • PostgreSql
 
-> **6+ years of experience** building scalable backend systems, APIs, and distributed services.
+> **6+ years of experience** building scalable software systems, APIs, and distributed services.
 
-I’m a backend-focused Software Engineer passionate about designing **reliable, scalable and high-performance systems**.
+I’m a Software Engineer passionate about designing **reliable, scalable and high-performance systems**.
 
 My primary interests are **Backend Engineering, System Design, Low-Level Design, Distributed Systems and Cloud Infrastructure**.
 
@@ -13,13 +13,12 @@ My primary interests are **Backend Engineering, System Design, Low-Level Design,
 ## 🚀 About Me
 
 * 💻 6+ years of professional software engineering experience
-* ⚙️ Building backend services with **Golang, Node.js & TypeScript**
+* ⚙️ Building backend services with **Golang, JavaScript, Node.js & TypeScript**
 * 🏗️ Interested in **System Design, LLD & Distributed Systems**
 * ☁️ Experience with **AWS, Kubernetes & Docker**
 * 🗄️ Working with **PostgreSQL, MongoDB, Redis & Snowflake**
 * 🔌 Designing and building **RESTful APIs & microservices**
 * 🧪 Strong focus on **testing, reliability & performance**
-* 📚 Currently deepening my knowledge of **Golang, LLD & System Design**
 * 🚀 Always interested in solving interesting engineering problems
 
 ---
