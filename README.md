@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tarang Nagda
 
-### Software Engineer | Software Developer | NodeJs • JavaScript • TypeScript • AWS • AI • Golang • Snowflake • Postgresql
+### Software Engineer | NodeJs • JavaScript • TypeScript • AWS • AI • Golang • Snowflake • Postgresql
 
 > **6+ years of experience** building scalable software systems, APIs, cloud applications, and technology solutions.
 
@@ -54,7 +54,7 @@ My interests span **Software Engineering, System Design, Distributed Systems, Cl
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/tarangnagda21">
+<a href="https://github.com/tarang21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
