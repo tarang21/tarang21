@@ -8,8 +8,6 @@ I’m a Software Engineer passionate about **building reliable software, solving
 
 My interests span **Software Engineering, System Design, Distributed Systems, Cloud Infrastructure, Developer Productivity, and AI-powered applications**.
 
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
